@@ -1,7 +1,0 @@
-<launch>
-	
-	<node pkg="driver_group3" type="robot_driver" name="driver" output="screen">
-	
-	</node>
-
-</launch>
