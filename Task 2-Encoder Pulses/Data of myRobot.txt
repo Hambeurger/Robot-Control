@@ -1,0 +1,12 @@
+#define enc_L_1 18 //motor 1 encoder 1
+#define enc_L_2 19 //motor 1 encoder 2
+#define PWM_L 9 //motor 1 speed control,analog
+#define DIR_L 6 //motor 1 direction control,digital
+
+#define enc_R_1 2 //motor 2 encoder 1
+#define enc_R_2 3 //motor 2 encoder 2
+#define PWM_R 4 //motor 2 speed control,analog
+#define DIR_R 5 //motor 2 direction control,digital
+
+High backwards
+Low forward
